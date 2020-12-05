@@ -1,5 +1,5 @@
 # Restaurant interface
-![logo](https://github.com/phongcolongchong/airbnb-project/blob/master/screenshot1.png?raw=true)
+![logo](https://github.com/phongcolongchong/restaurant-web-interface/blob/master/images/ScreenShot1.png?raw=true)
 
 This is Restaurant booking website’s UI. This project uses only HTML and vanilla CSS.
 
